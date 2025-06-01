@@ -8,7 +8,7 @@
 
 ---
 
-<img src=https://github.com/chengle-zhou/MY-IMAGE/blob/b6823005846f3440eb968b1f6096c2ee54dd9f69/WISLNet/img-1.jpg width="60%">
+<img src=https://github.com/chengle-zhou/MY-IMAGE/blob/b6823005846f3440eb968b1f6096c2ee54dd9f69/WISLNet/img-1.jpg align = “middle” width="80%">
 
 Fig. 1. Illustration of WTConv in the multiscale frequency domain.
 
