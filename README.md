@@ -30,7 +30,9 @@ Table I and Fig. 2 present the quantitative and qualitative change detection res
 
 This section investigates the impact of three key hyperparameters (i.e., K, window size, and !t) on the change detection performance of the WISLNet on the River and Farmland datasets. As shown in Fig. 3(a), the detection performance of the WISLNet changes significantly with the value of K, and the performance of the WISLNet is optimal when K = 3.
 
-![Fig3](https://github.com/chengle-zhou/MY-IMAGE/blob/b6823005846f3440eb968b1f6096c2ee54dd9f69/WISLNet/img-4.jpg)
+<p align = "center">  
+<img src=https://github.com/chengle-zhou/MY-IMAGE/blob/b6823005846f3440eb968b1f6096c2ee54dd9f69/WISLNet/img-4.jpg width="75%">
+</p>
 
 
 
